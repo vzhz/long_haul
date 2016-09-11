@@ -10,8 +10,8 @@ Think about what core compentencies you need and how to assess what you have. Th
 Ways there:
 
 1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
-* Spent about 3 hours getting testing myself up to about a 5th grade level, which was surprisingly fun.  
-* Painfully pulled myself away when I decided it had stopped being fun even though I had the urge hunker down and get as far as I could just to feel go about how far I got.
+ * Spent about 3 hours getting testing myself up to about a 5th grade level, which was surprisingly fun.  
+ * Painfully pulled myself away when I decided it had stopped being fun even though I had the urge hunker down and get as far as I could just to feel go about how far I got.
 
 2. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/)
 
