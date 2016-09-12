@@ -13,6 +13,31 @@ Objectives:
  * S
 
 2. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/)
+ * Be articulate about what you want and limit scope
+ * [Google <country>] will show you that country's google
+ * Filter your results with search tools (eg. by color with search tools>dropdown across the top>color)
+ * Can use multiple filters at once in search tools (eg. name that is a make of car and a died inventor + tools>type>faces gets you pictures of the inventor)
+ * If amiguous, add another word (eg. Tesla vs Tesla coil)
+ * Think of what you need (eg. diagrams are often in black and white)
+ * Actually searching google's index of the web, fetched with spiders
+ * Asks questions to determine what you need: how many times do keywords occur on page, are the search terms in the URL, or directly agacent, does page have synonims for the search terms, what is quality of page, what is its page rank
+ * Ads along right and top
+ * Similar results and cached version of the page at the bottom of the description
+ * Words in your search term don't have to be found near each other in the page
+ * Ketword choice: think about what you are trying to find, chose words you think will appear on the page (what would the author say (for medical care, "broken arm" not "busted arm")) 
+ * Insertion is extracted from some webpage to answer a question ("question answering"), not reliable yet
+ * Take out the words that make it a question
+ * Think of uncommon phrases that describe what you want (eg. ghost town)
+ * Every word matters (eg. "who" vs "a who" vs "the who") and word order matters (eg. sky blue vs blue sky (names of businesses))
+ * Capitalization doesn't matter
+ * Doesn't reconize most special characters, but #, +, $, @, % ok if not by themselves (eg. #hashtag)
+ * Awesome spell correction (or Veronica would never find anything) with assuming you want the famous thing and then offer "search instead for <your spelling>"
+ * Find function ctrl+f for finding text on page, enter for next entry, different browsers put search in different locations
+ * Scroll bar will be colored with lines at the point of the document that your search term appears
+ * Using speeds search by 12%, 90% of people don't use it, tells if word appears or not (eg. person never ran in this race if name isn't on the page)
+ * 
+ * 
+ 
 
 3. Contact Django-website-testing-folks and get yourself set up for some contributions!
 
