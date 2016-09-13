@@ -63,6 +63,29 @@ Notes:
 
 2. Wrote your advanced statistics prof to ask about the logic covered in the course and ask for the text/chapters reviewed so you can review material you have seen before and hopefully jog your memory more quickly back to where you were 8 years ago.
 
+3. Attended License with Confidence at Emacs NYC
+ * Shouldn't we just throw it out there because free as in freedom?
+ * Publishing gives automatic copywrite
+ * Liseance protects you and let's everyone know how you want them to use it
+ * Four freedoms (open source) : run, study, redistribute, improve
+ * Proprietary (EULA) isn't what we're talking about (they are more restrictive, can run (rarely other three), crazy clauses (itunes at one time said can't build numclear weapon with this))
+ * consider: linking, patent claims, distributing, modification, ...
+ * apharo : if make mods have to send them upsteam
+ * copyright vs copyleft : public domain (can't be copywrited: old books), permissive (MIT, BSD, Mozilla, ISC), weak copyleft (LGPL - using is isnt recissarily derivitive), strong copyleft (GPL, AGPL - if you use any of this code, the whole project becomes this thing, called "the virus" by microsoft)
+ * modification: do changes get sent upstream
+ * permissive liscenses allowed to be made less premissive later - might need to go back to time when it was less restrictive and use that version, in case of derivitive project can make more restrictive and then people choose which to contribute to 
+ * Public domain: Do What The Fuck You Want (just need to change the name when you redistrube), the Unlicense
+ * MIT: practically public domain, linking, no warranty, must maintain original license/copywrite
+ * BSD: nearly same as MIT, maintail list of contrubtors, 3clases version has non-endorsement clause (cant use who worked on it to sell it), no warranty
+ * Apache 2.0: permissive MIT/BSD, requires changelog, clauses for patent release, BSD non-endorsement clause, if you try to patent you can't use the software
+ * GPL: beastly license, 2nd most popular to MIT, provides rules to be copyleft
+ * GPLv2 (came one year after GPL): cannot sublicense, stong copyleft (linking, modification, distrubution), allows private copies, patent infridgement, not compatible with Apache2.0 (which has more restrictive patent clause)
+ * GPLv3: similar to GPLv2, if own hardware need to be able to change the software running on it, allows creation of private copies, allows removal of DRM that is added, prevents Tivoization, prevents patent infridgement
+ * Affero GNU Public License: same as GPLv3, fixes application service provider loophole, for network software, no private copies
+ * Content licences (video, images, documentations, general authoring...) 
+ * GNU Free Document License): similar to GPL, GPL can also be used for docs, restricts use of DRM...
+ * Creative Commons: most permissive to view only, based on US legal code (now expanded), all works falling under copyright, not recommended for software, can be combinated to make super-license
+
 ## 9/11/2016
 ### Goals
 Overall: 
