@@ -1,7 +1,64 @@
 # long_haul
 Periodic notes about my progress.
 
-## 9/11/2016
+## 9/13/2016
+### Goals
+Overall: 
+
+Get some coding done today.  That's what you really want to do.
+
+Objectives:
+
+1. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 2]
+ * 
+ 
+2. Get math materials for probability course review
+ * Old math prof suggested reviewing the combinatorics/counting sections of “A First Course in Probability” by Sheldon Ross (Ch. 1) and then attempt to read Knuth.
+ * In the course, text was “A First Course in Probability” by Sheldon Ross and we covered chapters 1-5, the first half of 6, parts of 10.
+ * Hard copy of the book is [on ebay](http://www.ebay.com/itm/FAST-SHIP-A-First-Course-in-Probability-9E-by-Sheldon-Ross-/262440734464?hash=item3d1aafcf00:g:6JAAAOSwXSJXOkLw) but there is also [this pdf](http://zalsiary.kau.edu.sa/Files/0009120/Files/119387_A_First_Course_in_Probability_8th_Edition.pdf).  Nothing in the NYC/Brooklyn public libraries, but now you have a library card on the way.  Pdf now downloaded onto your desktop.
+ * Found a buddy to work with at RC on Thursday!
+ * Try to review some on Weds so you're ready to pair.
+
+3. Review nweb's math program
+ * 
+
+4. Work on Django blog
+ * 
+ 
+5. Thought of future talk/lightning talk ideas
+Technical:
+ * How the http requests library works
+ * Webscraping in Python (project review + best practices/how-to)
+ * Building something simple and modularly building up from that 
+ * When PEP8 is and isn’t helpful (Python specific)
+ * Review of “Unlocking the Clubhouse” (short talk)
+Non-technical:
+ * Lessons I learned helping with rover landing site selection 
+ * Learning to fly and how it is like any other learning process (I need to think about how to frame this, but it could be awesome)
+ * Comical talk about switching from a dumb phone to a smart one
+ * Somedat I want to share my favorite life hacks
+
+Tabled: 
+
+1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
+
+Distractions:
+
+I started getting the white lights in the corner of my eyes thing.  It was so bad that when I took a "please be better, eyes" walk and visited a shop, it was hard to talk to the saleslady because I couldn't see her very well.  Not the best thing.
+
+Neat things:
+
+1. 
+
+Notes:
+
+1. Spent a non-trivial amount of time figuring out travel to Boston, Airbnb stuff, etc.
+
+2. Django project guy didn't write me back, should I just do a small PR or wait (I assume he's just busy)
+
+3. Totally didn't try not checking my email in the morning.  Eye pain meant I let myself work on brainless stuff (Airbnb, etc) alot. :/
+
+## 9/12/2016
 ### Goals
 Overall: 
 
@@ -10,9 +67,9 @@ Finish the things you didn't finish yesterday, but somehow do this only until it
 Objectives:
 
 1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
- * S
+ * Nope, didn't
 
-2. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/)
+2. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 1]
  * Be articulate about what you want and limit scope
  * [Google <country>] will show you that country's google
  * Filter your results with search tools (eg. by color with search tools>dropdown across the top>color)
@@ -35,9 +92,6 @@ Objectives:
  * Find function ctrl+f for finding text on page, enter for next entry, different browsers put search in different locations
  * Scroll bar will be colored with lines at the point of the document that your search term appears
  * Using speeds search by 12%, 90% of people don't use it, tells if word appears or not (eg. person never ran in this race if name isn't on the page)
- * 
- * 
- 
 
 3. Contact Django-website-testing-folks and get yourself set up for some contributions!
 
