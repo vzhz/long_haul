@@ -1,6 +1,52 @@
 # long_haul
 Periodic notes about my progress.
 
+## 9/16/2016
+### Goals
+Overall: 
+
+Code. Hopefully mostly Django.
+
+Objectives:
+
+1. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 2]
+ * 
+ 
+2. Mediem and long-term goal thinking
+ * Think about favorite companies
+ * Remember not to be scared of the JS and the PHPs of the world
+
+4. Work on Django blog
+ * 
+ 
+5. Review of Recurser's geology game
+ * 
+
+
+Tabled: 
+
+1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
+
+2. Probability course review
+
+3. Django website contribution
+
+4. Review counting
+
+Distractions:
+
+
+
+Neat things:
+
+1. 
+
+Notes:
+
+1. 
+
+
+
 ## 9/15/2016
 ### Goals
 Overall: 
