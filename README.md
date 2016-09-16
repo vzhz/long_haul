@@ -26,13 +26,17 @@ Objectives:
  * 
  
 5. Thought of future talk/lightning talk ideas
+
 Technical:
+
  * How the http requests library works
  * Webscraping in Python (project review + best practices/how-to)
  * Building something simple and modularly building up from that 
  * When PEP8 is and isn’t helpful (Python specific)
  * Review of “Unlocking the Clubhouse” (short talk)
+
 Non-technical:
+
  * Lessons I learned helping with rover landing site selection 
  * Learning to fly and how it is like any other learning process (I need to think about how to frame this, but it could be awesome)
  * Comical talk about switching from a dumb phone to a smart one
@@ -48,7 +52,7 @@ I started getting the white lights in the corner of my eyes thing.  It was so ba
 
 Neat things:
 
-1. 
+1. Went to PythonNYC meetup for like 20 minutes and talked to a Recurser who suggested you watch [Destroy All Software's talk on Boundaries](https://www.destroyallsoftware.com/talks/boundaries) to better be able to apply the counting you will be doing with him.
 
 Notes:
 
