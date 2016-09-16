@@ -1,6 +1,89 @@
 # long_haul
 Periodic notes about my progress.
 
+## 9/15/2016
+### Goals
+Overall: 
+
+Review code today and think broadly about what you should be doing.
+
+Objectives:
+
+1. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 2]
+ * 
+
+3. Review math program
+ * My copy of my review can be found [here](https://github.com/rczyrnik/MathProgram/compare/master...vzhz:codereview).
+ * I struggled a little about keeping track of which branch I was on and how to push to a practular branch from my cloned repo that I had forked from her.  There is a good review of the process [here](https://help.github.com/articles/pushing-to-a-remote/).
+ * This reminded me of what I am comfortable with and what I'm not, and I hope to remember that as I go forward.
+ * I also asked the pairing stream at Recurse to review my review, since I want to be able to improve my clarity.
+ * Next time I think I will comment in github and not inline so no one has to delete my comments in the future, but I decided that this was the way I did it and it was time to move on instead of "perfecting" something that doesn't change much for the other person even though it would take me a lot of time.
+
+4. Work on Django blog
+ * 
+ 
+5. Lightning talk tonight about cell phone transition
+ * Decided to cancel and stay home for all roommates stay home day instead.  The talk was going to be amusing but wouldn't benefit you like the work you got done.  Go you.
+
+6. Counting review with Recurser
+ * Rescheduled because of stay home decision.
+
+7. Django website contribution
+ * Asked a question about one of the issues on the depricated version of their website (oops)
+ * Tried to identify a issue to tackle for the current site
+
+Tabled: 
+
+1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
+
+2. Probability course review
+
+Distractions:
+
+I think it would be a helpful to take notes thoughout the day as I was doing before.
+
+Neat things:
+
+1. 
+
+Notes:
+
+1. Should think about what your long term goal should be.
+
+
+## 9/14/2016
+### Goals
+Overall: 
+
+Not sure what my plan had been, but what I actually did was configure my new phone.
+
+Objectives:
+
+1. Get your phone set up.
+ * 
+ 
+Tabled: 
+
+1. [Khan academy has a diagnostic to find the limits of your math skill](https://www.khanacademy.org/mission/math)
+
+3. Review nweb's math program
+
+4. Work on Django blog
+
+5. Probablity
+
+6. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 2]
+
+Distractions:
+
+Neat things:
+
+1. 
+
+Notes:
+
+1.
+
 ## 9/13/2016
 ### Goals
 Overall: 
