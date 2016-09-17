@@ -10,7 +10,74 @@ Code. Hopefully mostly Django.
 Objectives:
 
 1. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 2]
+ * Context helps when search results give more than ask for 
+ * Knowledge panel is basic information about the thing (all clickable items), useful in supporting your search
+ * Autocomplete is driven by what others have searched (in the dropdown)
+ * Google instant fills in results for the search you are starting (in the browser page) - you may be able to reconize the thing you are looking for
+ * Searches related to might get you thinking outside your box (ie. family name but doesn't include the name itself
+ * Read more carefully: don't skip words you don't know (define: <word>)
+ * Grey arrow widget gives more information about word (timeline of use, etc.)
+ * Can use words not in dictonaries because defined by content on the web
+ * Lots of content on google, blended into search results webpage
+ * Look beyond the webpage for insights: related searches (at bottom), different media types
+ * Different media types: images (along top), news
+ * If first results are videos, check out the video tab and choose what looks best
+ * Reading Search Engine Results Page
+ * If new to a subject break down question into single questions (ie. if unsure of definition)
+ * Open links in different tabs (cmd+click)
+ * Words in query and snippet will be bold in the snippet
+ * Downward arrow will tell about the website/org etc. - way to get quick sense of how authitative that sourse is
+ * ... means something has been removed and maybe information that would be helpful to you has been deleted
+ * Links at bottom are places within that webpage that people go to (results from within the site)
+ * If results seem to contriduct each other mean you need to investigate further 
+ * Tools to look for patents, scholar, etc. to search for those types of content
+ * More dropdown offers Google books, etc.
+ * Can search for google books etc so not have to remember the URL
+ * Patents searches use advanced tab
+ * Legal content only in English so switch to English as your input language
+ 
+2. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 3]
+ * Google can crawl visible web, non-indexed is deep web
+ * Operator filters your results (ie. "tesla coil site:standford.edu"), when you need a particular thing from a particular place
+ * site: operator used as domain (.edu) and website levels
+ * filetype: operator limits results
+ * Can import kml file to maps (neat sidebar)
+ * Format [query terms filetype:<type>]
+ * - operator filters to exclude certain results
+ * Format [query -<irrelevent sense of the word> -<ingrediant you don't like>]
+ * No space after minus sign or will emphasize that word
+ * When exact phrase "<phrase>"
+ * "<blah blah "blah">" good way to avoid similar spellings, means third blah will not be spell corrected
+ * OR adds more results to your search, Ex. Fish spa OR pedicure, bolded term in summary is the term that was used
+ * intext: operator makes sure text is on the page
+ * Important because not all terms are always included, sometimes page ranks highly enough based on first terms that you get that page without considering later terms
+ * Settings to go to advanced search and will be populated with your search
+ * If you forget operators, etc., come here
+ 
+3. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 4]
+ * Search-by-image (search internet for images) : click image search in upper right, drag image into search bar
+ * Where from, what is it? Example of tool-like item on white background because assuming will be in catalog
+ * search "Google Search Features" for complete list of shortcuts
+ * Conversions: X units in units that interest you
+ * Won't give you length into volume, instead gives pages that mention both conversions
+ * Can do lovely 3D graphs of equations
+ * Easter egg is asking questions and adding the answer (ex. Number of horns a unicorn has + the lonliest number)
+ * Subpanel can change location, any time (time page was published to web, can have custom range using wiget to see how the world felt about a thing in a certain time range)
+ * Examples of previous unit skills: California OR CA intext: other politician from that time
+ * To learn what others think, search in their language using advanced search menu
+ * Bar along the top will over to translate to your default language - can go back and forth
+ * Text in images aren't translated
+ * Can define a region in addition to a language so in Spanish served from Mexico for example
+ * Better to search for the translated word instead of in English 
+ * If you paste URL into google translate, will give new, translated URL
+
+4. [Learn to be a master-googler](http://www.powersearchingwithgoogle.com/) [Unit 5]
  * 
+ 
+ 
+ * 
+ 
+ 
  
 2. Mediem and long-term goal thinking
  * Think about favorite companies
