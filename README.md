@@ -1,6 +1,40 @@
 # long_haul
 Periodic notes about my progress.
 
+## 10/6/2016
+### Goals
+Overall: 
+Code and do a little planning.
+
+Objectives: 
+
+1. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
+
+2. Review task planner for new meetup friend.
+
+3. Review possible outreachy projects with an eye for Python, projects with tags for beginners, and helpful documentation.
+
+4. Intro to D3 with RC folk
+* Recent version v4 came in June, naming is different so old tutorials need to be translated
+* More tutorials for v3 but v4 is more recent
+* Docs on 3D.org site are current
+* can't just copy/paste your data in and see it
+* 3d good at mapping length/height/etc to your data attributes, but making those relationships is hard to get your head around
+* 
+* easier to learn with JS knowledge
+* ES6, etc. means that it is a version of JS
+* mapping data onto html element or svg (Scalable Vector Graphics - eg. squares etc) element
+* divide 
+* tributary.io helps you see what selectors
+* really helpful to use inspect elements when using D3, D3 will create your elements for you so you can check for them inside your inspect element to troubleshoot when you don't see what you expect
+* maybe it is easier to learn without chaining at first (append as a second step) but all the examples have a lot of chains
+* make sure to name your collections of items and then you will change your attributes (circles will stay circles even if they multiply, turn red, etc.)
+* select and select all are the two ways to select, select all will not select things but it will make a place to collect those things, which is weird to think about
+* make a cheat sheet of commands to make collections that don't exist - very smart
+
+5. 
+
+
 ## 9/16/2016
 ### Goals
 Overall: 
