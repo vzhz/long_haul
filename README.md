@@ -6,17 +6,48 @@ Periodic notes about my progress.
 Overall: 
 Code and do a little planning.
 
+Objectives:
+
+1. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
+ *
+
+2. Review task planner for new meetup friend.
+ * She's also excited about my website design and I told her she could folk and play around if she wanted, thinking of other good resources
+ * Import statements are redundent
+ * Should tell users either in Readme or inline comments if they need to run a particular python version or install anything (note: tk is picky about this https://pythonspot.com/en/tk-message-box/)
+ * Since it's so hard to decide what to install point to resource that helps figure out versions, etc.
+ * Consider that the code was never run locally without being commited, wrote person to ask if it runs on her computer
+ * Potentially helpful links: http://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
+ * Future her will want only the comments that are needed
+ * Comments should be formatted consistently (point to PEP8 but maybe also the "you don't have to follow every rule" talk as an awareness thing
+ * If used tutorial (line-by-line) consider pointing to tutorial link and then pointing out what features you added yourself as you adapt code to your own needs/desires
+ * Reminder to run code every time and maybe suggest print statements at points to decide what's up when need to debug
+ * Return to this after you can run the code
+
+3. Review possible outreachy projects with an eye for Python, projects with tags for beginners, and helpful documentation.
+ * Send to Satabdi Das (who will reach out on the mailing list and introduce me to past participants), 
+ 
+ 
+4. Get [twilio](https://www.twilio.com/) up and sending some texts using some Python 
+ * Can check in with Deborah, Edward, and Matthias who have all used it
+ * Chat with company is next Friday
+ * 
+
+
+## 10/6/2016
+### Goals
+Overall: 
+Code and do a little planning.
+
 Objectives: 
 
 1. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
 
 2. Review task planner for new meetup friend.
- * 
 
 3. Review possible outreachy projects with an eye for Python, projects with tags for beginners, and helpful documentation.
- * 
 
-4. Intro to D3 with RC folk
+4. Intro to D3 with RC folk, [notes](https://zulip-uploads.s3.amazonaws.com/13/0ro8ur1ETu49F9m_UgM97wBp/D3intro.html?Signature=XmrUmaP%2B%2B5Qcu4%2By2LprYgTBcPE%3D&Expires=1475860835&AWSAccessKeyId=AKIAIEVMBCAT2WD3M5KQ)
  * Recent version v4 came in June, naming is different so old tutorials need to be translated
  * More tutorials for v3 but v4 is more recent
  * Docs on 3D.org site are current
@@ -33,7 +64,7 @@ Objectives:
  * select and select all are the two ways to select, select all will not select things but it will make a place to collect those things, which is weird to think about
  * make a cheat sheet of commands to make collections that don't exist - very smart
 
-5. Dynamic programming talk by **, slides **
+5. Dynamic programming talk by James Katz, [slides](https://github.com/james727/Dynamic-Programming-Workshop)
  * Hard to know what is a dynamic programming problems
  * Foscus this time on getting formulation right, coding comes easier
  * Problems selected are famous
