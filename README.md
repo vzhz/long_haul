@@ -9,7 +9,7 @@ Code and do a little planning.
 Objectives:
 
 1. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
- *
+ * 
 
 2. Review task planner for new meetup friend.
  * She's also excited about my website design and I told her she could folk and play around if she wanted, thinking of other good resources
@@ -25,14 +25,16 @@ Objectives:
  * Return to this after you can run the code
 
 3. Review possible outreachy projects with an eye for Python, projects with tags for beginners, and helpful documentation.
- * Send to Satabdi Das (who will reach out on the mailing list and introduce me to past participants), 
- 
+ * Send to Satabdi Das (who will reach out on the mailing list and introduce me to past participants). She suggests to apply to two projects (can branch out to others) and points out that documentation or marketing is helpful too.
  
 4. Get [twilio](https://www.twilio.com/) up and sending some texts using some Python 
  * Can check in with Deborah, Edward, and Matthias who have all used it
  * Chat with company is next Friday
  * 
 
+5. Sarah asked me to review her bio for Boston Code Camp <3 
+
+6. I scrubbed the mildew/mold off the shower. Observe my cleanliness.
 
 ## 10/6/2016
 ### Goals
