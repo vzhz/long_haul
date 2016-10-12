@@ -1,6 +1,55 @@
 # long_haul
 Periodic notes about my progress.
 
+## 10/12/2016
+### Goals
+Overall: 
+Code and get organized/priorities.
+
+Objectives:
+1. Tell supportive folks about your Outreachy choices, ask how you might contact people and increase your chances in future rounds.
+
+2. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
+
+3. Send review for meetup friend.
+
+4. Get a twilio project started.
+ * Hack and Tell organizer works there so maybe you could be bros and ask her things.
+ * Maybe have it send the same affirmations you have for friendly terminal to your phone.
+ 
+5. Screening call with travel company in Amsterdam this morning was successful.  Next step is a HackerRank challenge.
+ 
+6. Looked into TechWeek NYC events and decided that the event isn't worth it unless you are going to volenteer and get into the higher-priced events for free.
+ 
+7. Pandas tutorial on the way to Pandas+Elastic Search project.
+ * Sarah can review your things and may have resource suggestions.  Deborah has also used Elastic before.
+  
+8. Plan gentle troll for person who made first commit to your repo when you were just getting started. 
+ * Idea: Maybe make scripted commits every day for a week or something so he gets an email each time.  Need to do some research about how to make this happen.
+ * Could also also Zulip for ideas. 
+
+9. Invited to RtR tech talk night so can go and talk to folks.
+ * Figure out if you can go and tell the person who invited you.
+ 
+10. Investigate open source resources Edward suggested.
+ * 
+ 
+11. Look through Michelle's resume editing project and decide how you will contribute.
+
+12. Review the parts [actually not sure what I was writing here]
+
+13. Ask your AWS-knowing-gang (Michele) what tutorials they would recommend to move you closer to your own projects.
+ * 
+ 
+14. Check in with GWC about teaching for them next summer in NYC or Boston.
+ * Keep in touch with Kayla and the hiring person you had contact with before.  Maybe also get in touch with Jessica Ford from the Work Jelly/MIT since she's discussed it.
+ * Understand that they often hiring from the hosting company because those hires have worked out well in the past.
+ 
+14. Make a list to talk to update Edward with tomorrow.
+ * Ask him for help intigrating your blog with your website.
+ * 
+ 
+
 ## 10/6/2016
 ### Goals
 Overall: 
