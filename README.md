@@ -31,15 +31,32 @@ Objectives:
 9. Invited to RtR tech talk night so can go and talk to folks.
  * Figure out if you can go and tell the person who invited you.
  
-10. Investigate open source resources Edward suggested.
- * 
+10. Investigate [open source resource](https://www.codetriage.com/?language=Python) Edward suggested.
+ * Remember his advice about looking for ways to support projects you like using whatever expertice you are (ie. he upgraded the website for [this project](http://rouge.jneen.net/)).
+ * Honestly, looking though this list is a really great way to learn about projects that are established but you haven't heard about for whatever reasons.
+ * I want to contribute to [LetsEncrypt](https://www.codetriage.com/letsencrypt/), but am intimidated because most of the issues that seem like low-hanging fruit (ie. posting their logo on the readme) have several comments including 99% test coverage (so it's done and tested?) but still not closed.
+ * Next step: Pick and issue (do they have questions for newbies?) and start asking about it.
  
-11. Look through Michelle's resume editing project and decide how you will contribute.
+11. Look through [Michelle's resume editing project](https://github.com/Yuffster/i17on) [[slides](http://slides.com/yuffster/deck-1#/1)] and decide how you will contribute.
+ * Wrote Michelle and asked for contribution wish list which she had in presentation but isn't on github.
+ * Forked so it's sitting and reminds you. :p
+ * Next step, maybe ask her to post issues and start commenting on one so people know you are working on it and then get to work.  Also maybe after looking it over with Diego ask Michelle to walk thought the hard parts with you.
+ * [Contribution wish list](http://slides.com/yuffster/deck-1#/35)
+ * I am most attracted to the Markdown problem, but need to think more about what that entails. [<-- Next step]
 
-12. Review the parts [actually not sure what I was writing here]
+12. Review the technologies needed for the climate-change project and consider what you have now and make goals that bring you closer to being able to contribute to that.
+ *
 
 13. Ask your AWS-knowing-gang (Michele) what tutorials they would recommend to move you closer to your own projects.
- * 
+ * Diego suggested [this open guide](https://github.com/open-guides/og-aws).
+ * You have also attended Getting Started in AWS, but would benefit from review and completing a full, sans-tutorials project.
+ * Advice from earlier: AWS services you absolutely should learn how to use: DynamoDB, EC2 (i.e. spinning up instances, etc.), AWS Lambda, Route 53, S3, CloudWatch, Redshift, Elastic search, Elastic file system (I think this is called something else now but it is mega cool), SQS (IMO less cool than RabbitMQ / ZeroMQ, but it integrates with AWS so....).
+ * In order, suggest: S3, EC2, Elastic Search, Route 53
+ * [Site for the certification](https://aws.amazon.com/certification/)
+ * [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english)
+ * Decided you are most interested in making a sensor that will AWS it up and tell you if your plant needs to be watered.  A tutorial is at [this site](https://www.hackster.io/heskew/aws-iot-remote-soil-moisture-monitor-860040) and you should order materials for at least two of these and plan to do this in December or so.
+ * Maybe you can write a guest blog post for mom's site.
+ * Next step: Order supplies for this (ask RC-folks if they want to joint-order) and get it in your calendar.
  
 14. Check in with GWC about teaching for them next summer in NYC or Boston.
  * Keep in touch with Kayla and the hiring person you had contact with before.  Maybe also get in touch with Jessica Ford from the Work Jelly/MIT since she's discussed it.
