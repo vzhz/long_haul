@@ -8,6 +8,7 @@ Code and get organized/priorities.
 
 Objectives:
 1. Tell supportive folks about your Outreachy choices, ask how you might contact people and increase your chances in future rounds.
+ * 
 
 2. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
 
@@ -44,8 +45,16 @@ Objectives:
  * [Contribution wish list](http://slides.com/yuffster/deck-1#/35)
  * I am most attracted to the Markdown problem, but need to think more about what that entails. [<-- Next step]
 
-12. Review the technologies needed for the climate-change project and consider what you have now and make goals that bring you closer to being able to contribute to that.
- *
+12. Review the technologies needed for the climate-change project and consider what you have now and make goals that bring you closer to being able to contribute to that. Here is the list:
+ * Web-based user interface: Javascript with jQuery, which sends AJAX requests.
+ * Webpage elements: HTML templates in using Mako, to be served by UI.
+ * Python controller: Serves the main page and responds to AJAX requests from the UI, written in the TurboGears 2 web framework (Pylons), using Python 2.7.
+ * Database: MongoDB table, consisting of a dictionary tree structure, accessed through Ming’s ODM interface.
+ * Model estimation: Python to generate Stata .do code.
+ * Results generation: Python to call the DMAS generator functions system.
+ * How to gain experience with each of these?  <-- think about this and make goals to address at least two of these before contacting James again
+ * Full project description can be found [here](https://docs.google.com/document/d/103DzpZbFxFrvFTp6fwpbhMS1JsZh880sQ5gJquAqiTM/edit?usp=sharing).
+
 
 13. Ask your AWS-knowing-gang (Michele) what tutorials they would recommend to move you closer to your own projects.
  * Diego suggested [this open guide](https://github.com/open-guides/og-aws).
@@ -56,15 +65,36 @@ Objectives:
  * [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english)
  * Decided you are most interested in making a sensor that will AWS it up and tell you if your plant needs to be watered.  A tutorial is at [this site](https://www.hackster.io/heskew/aws-iot-remote-soil-moisture-monitor-860040) and you should order materials for at least two of these and plan to do this in December or so.
  * Maybe you can write a guest blog post for mom's site.
- * Next step: Order supplies for this (ask RC-folks if they want to joint-order) and get it in your calendar.
+ * Next step: Order supplies for this (ask RC-folks if they want to joint-order) and get it in your calendar. [scheduled for tonight]
  
 14. Check in with GWC about teaching for them next summer in NYC or Boston.
  * Keep in touch with Kayla and the hiring person you had contact with before.  Maybe also get in touch with Jessica Ford from the Work Jelly/MIT since she's discussed it.
  * Understand that they often hiring from the hosting company because those hires have worked out well in the past.
+ * Note: [Speaking opperunity](https://girlswhocode.com/volunteer/) for folks to talk to the girls about inspiring stuff for an hour.  Signed up and will think of topic when you get pinged.
+ * Contacted Chrissy and asked if the hiring process has changed (their interest link is broken) and signed up to read apps and teach their curriculm during the year at a local club.
  
-14. Make a list to talk to update Edward with tomorrow.
+14. Make a list to talk to update Edward with tomorrow. [this is over]
  * Ask him for help intigrating your blog with your website.
- * 
+ 
+15. Talk ideas for dev bootcamp lightning talks [[link to application](https://docs.google.com/forms/d/e/1FAIpQLSem42m0T66X-uk4ucLne9wDwdxJ6UAc0Sgm4oYX2eMiEUG0XA/viewform)]
+ * For perspective, I have already spoken about Friendly Terminal and imposter's syndrome (both recorded).
+ * Wrote supportive pals and asked for feedback on talk list.
+ * Additionally, wrote the organizer and asked if she would like me to make a presentation about gender and learning programming to her instructors.
+ * The talk idea list: 
+  * How the http requests library works (you used it in your scraper), and the docs are pretty short. [1 vote]
+  * Building something simple and modularly building up from that (maybe use flashcard as an example). 
+  * PEP8 is awesome but isn’t life (include some of this things that auto-PEP8 for you)
+  * Comparison of Django and Flask by writing same program in both
+  * Lessons in gutsiness and self-perception from "Unlocking the Clubhouse" [1 vote]
+  * What you can learn from reviewing other's code
+  * Common hurtles for beginners (since these will all be bootcamp grads, I could make it funny)
+  * How to get started in open source
+  * How and why of pointers
+ 
+16. Asked my wonderful artist-friend Andy M. to illistrate anything that needs illistrating when I start blogging.
+ * She's happy to do so and requests that I tell her more about what I will blog about so she can start sketching.
+ * I want to be sure she uses materials that will move her forward in her art-study since I'll be happy with whatever she does.
+ 
  
 
 ## 10/6/2016
