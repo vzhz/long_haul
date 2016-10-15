@@ -110,6 +110,13 @@ Objectives:
 
 20. Refactor triangle generator
 
+21. Project: Scaling for the sake of scaling
+ * Notes: 
+ * Twitter clone is a good project because you need to concern yourself with caching, load balancing, and accepting/displaying permutations.  Can monitor time needed to view with a given number of users.
+ * Can have a simple site that shows images using google API for like 1000 images with dominant color tagged.  Users (lots of them) can request a color.
+ * If use existing scraper project, can time and use caching results.  Data.gov datasets the quickest dataset to interact with.
+ * Advice: Make what people use the most fast.  Make the app itself very straightforward.  n+1 query helps you optimize.  Could scale someone else's code since you just care about scaling.  Remember to get baseline and speed it up.  Read articles to get terminology in your head.
+
  
  
 ## 10/6/2016
