@@ -17,7 +17,7 @@ Objectives:
 4. Get a twilio project started.
  * Hack and Tell organizer works there so maybe you could be bros and ask her things.
  * Maybe have it send the same affirmations you have for friendly terminal to your phone.
-#### * [Official tutorial](https://www.twilio.com/docs/tutorials)
+ * **[Official tutorial](https://www.twilio.com/docs/tutorials)**
  
 5. Screening call with travel company in Amsterdam this morning was successful.  Next step is a HackerRank challenge.
  * Wrote and asked them to send screening.
@@ -27,29 +27,31 @@ Objectives:
 7. Pandas tutorial on the way to Pandas+Elastic Search project.
  * Sarah can review your things and may have resource suggestions.  Deborah has also used Elastic before.
  * Sarah suggests [Python for Data Science](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf)
-#### * [Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+ * **[Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)**
  * maybe have a pandas party with Diego sometime?
   
-#### 8. Plan gentle troll for person who made first commit to your repo when you were just getting started. 
+8. Plan gentle troll for person who made first commit to your repo when you were just getting started. 
  * Idea: Maybe make scripted commits every day for a week or something so he gets an email each time.  Need to do some research about how to make this happen.
  * Could also also Zulip for ideas. 
+ * Do this later.
 
 9. Invited to RtR tech talk night so can go and talk to folks.
  * Figure out if you can go and tell the person who invited you.
- * Asked to be invited to next demo night, might meet him this weekend.
+ * Asked to be invited to next demo night, might meet him this weekend.  Come to Demos on Friday.  Pinged Nancy to chat about their current needs.
  
 10. Investigate [open source resource](https://www.codetriage.com/?language=Python) Edward suggested.
  * Remember his advice about looking for ways to support projects you like using whatever expertice you are (ie. he upgraded the website for [this project](http://rouge.jneen.net/)).
  * Honestly, looking though this list is a really great way to learn about projects that are established but you haven't heard about for whatever reasons.
  * I want to contribute to [LetsEncrypt](https://www.codetriage.com/letsencrypt/), but am intimidated because most of the issues that seem like low-hanging fruit (ie. posting their logo on the readme) have several comments including 99% test coverage (so it's done and tested?) but still not closed.
  * Asked about the [logo issue which confuses you](https://github.com/certbot/certbot/pull/3610).  See if they answer you kindly.  Yes, it's a test.
+ * They never responded but zulip folks explained that since the test ceverage didn't change before/after the addition, they were using this to point out that no fewer tests were passing so the addition happened without breaking anything else, not that the logo addition itself was tested and less than 100% passing.
  
 11. Look through [Michelle's resume editing project](https://github.com/Yuffster/i17on) [[slides](http://slides.com/yuffster/deck-1#/1)] and decide how you will contribute.
  * Wrote Michelle and asked for contribution wish list which she had in presentation but isn't on github.
  * Forked so it's sitting and reminds you. :p
  * Next step, maybe ask her to post issues and start commenting on one so people know you are working on it and then get to work.  Also maybe after looking it over with Diego ask Michelle to walk thought the hard parts with you.
  * [Contribution wish list](http://slides.com/yuffster/deck-1#/35)
-#### * I am most attracted to the Markdown problem, but need to think more about what that entails. [<-- Next step]
+ * **I am most attracted to the Markdown problem, but need to think more about what that entails. [<-- Next step]**
 
 12. Review the technologies needed for the climate-change project and consider what you have now and make goals that bring you closer to being able to contribute to that. Here is the list:
  * Web-based user interface: Javascript with jQuery, which sends AJAX requests.
@@ -58,7 +60,7 @@ Objectives:
  * Database: MongoDB table, consisting of a dictionary tree structure, accessed through Ming’s ODM interface.
  * Model estimation: Python to generate Stata .do code.
  * Results generation: Python to call the DMAS generator functions system.
-#### * How to gain experience with each of these?  <-- think about this and make goals to address at least two of these before contacting James again
+ * **How to gain experience with each of these?  <-- think about this and make goals to address at least two of these before contacting James again**
  * Full project description can be found [here](https://docs.google.com/document/d/103DzpZbFxFrvFTp6fwpbhMS1JsZh880sQ5gJquAqiTM/edit?usp=sharing).
 
 
@@ -71,13 +73,15 @@ Objectives:
  * [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english)
  * Decided you are most interested in making a sensor that will AWS it up and tell you if your plant needs to be watered.  A tutorial is at [this site](https://www.hackster.io/heskew/aws-iot-remote-soil-moisture-monitor-860040) and you should order materials for at least two of these and plan to do this in December or so.
  * Maybe you can write a guest blog post for mom's site.
-#### * Next step: Order supplies for this (ask RC-folks if they want to joint-order) and get it in your calendar. [scheduled for tonight]
+ * Next step: Order supplies for this (ask RC-folks if they want to joint-order) and get it in your calendar. [scheduled for tonight]
+ * Put this off for now.  The most expensive parts sans shipping were >$70 and you mostly want it for the AWS and the confidence anyway.  Maybe check in with yourself about this in Feb. or so.
  
 14. Check in with GWC about teaching for them next summer in NYC or Boston.
  * Keep in touch with Kayla and the hiring person you had contact with before.  Maybe also get in touch with Jessica Ford from the Work Jelly/MIT since she's discussed it.
  * Understand that they often hiring from the hosting company because those hires have worked out well in the past.
  * Note: [Speaking opperunity](https://girlswhocode.com/volunteer/) for folks to talk to the girls about inspiring stuff for an hour.  Signed up and will think of topic when you get pinged.
-### * Contacted Chrissy and asked if the hiring process has changed (their interest link is broken) and signed up to read apps and teach their curriculm during the year at a local club. <-- check back ~Nov 1 maybe get cover letter ready before then
+ * Contacted Chrissy and asked if the hiring process has changed (their interest link is broken) and signed up to read apps and teach their curriculm during the year at a local club. <-- check back ~Nov 1
+ * Draft of cover letter is [here](https://docs.google.com/document/d/16ynfvsJcJ9U3kVw13eTssRnoBE0cHYM_W8M0JhIpmY0/edit?usp=sharing)
  
 14. Make a list to talk to update Edward with tomorrow. [this is over]
  * Ask him for help intigrating your blog with your website.
@@ -85,23 +89,27 @@ Objectives:
 15. Talk ideas for dev bootcamp lightning talks [[link to application](https://docs.google.com/forms/d/e/1FAIpQLSem42m0T66X-uk4ucLne9wDwdxJ6UAc0Sgm4oYX2eMiEUG0XA/viewform)]
  * For perspective, I have already spoken about Friendly Terminal and imposter's syndrome (both recorded).
  * Wrote supportive pals and asked for feedback on talk list.
- * Additionally, wrote the organizer and asked if she would like me to make a presentation about gender and learning programming to her instructors.
+ * Additionally, wrote the organizer and asked if she would like me to make a presentation about gender and learning programming to her instructors.  She said yes!
+ * **Research and outline talk about gender in programming teaching**
+ * Once talk is selected, write the thinger (talk date is Dec. 6).  Submissions can be found in [submitted talks](https://github.com/vzhz/long_haul/edit/master/submitted_talks) folder.  Can ask Jacinda and Jess Hamerick about titles/for review.  Also see if you can record your screen + voice.
  * The talk idea list: 
-  * How the http requests library works (you used it in your scraper), and the docs are pretty short. [1 vote]
+  * How the http requests library works (you used it in your scraper), and the docs are pretty short. [1 vote, submitted this]
   * Building something simple and modularly building up from that (maybe use flashcard as an example). 
   * PEP8 is awesome but isn’t life (include some of this things that auto-PEP8 for you)
-  * Comparison of Django and Flask by writing same program in both
+  * Comparison of Django and Flask by writing same program in both [1 vote, Kayla wants to see it!]
   * Lessons in gutsiness and self-perception from "Unlocking the Clubhouse" [1 vote]
-  * What you can learn from reviewing other's code
+  * What you can learn from reviewing other's code [submitted this]
   * Common hurtles for beginners (since these will all be bootcamp grads, I could make it funny)
   * How to get started in open source
   * How and why of pointers
+  
+ 
  
 16. Asked my wonderful artist-friend Andy M. to illistrate anything that needs illistrating when I start blogging.
  * She's happy to do so and requests that I tell her more about what I will blog about so she can start sketching.
  * I want to be sure she uses materials that will move her forward in her art-study since I'll be happy with whatever she does.
  
-### 17. Write bio+pick pic for Colgate career services feature 
+17. **Write bio+pick pic for Colgate career services feature**
 
 18. Job-finding resources
  * [Stack share matching](http://stackshare.io/match)
