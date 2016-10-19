@@ -27,7 +27,8 @@ Objectives:
 7. Pandas tutorial on the way to Pandas+Elastic Search project.
  * Sarah can review your things and may have resource suggestions.  Deborah has also used Elastic before.
  * Sarah suggests [Python for Data Science](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf)
- * **[Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)**
+ * **[Official tutorial](http://pandas.pydata.org/pandas-docs/stable/tutorials.html), using Cookbook by Julia Evens**
+ * Downloaded Anaconda, and opened iPython Notebooks and got started.
  * maybe have a pandas party with Diego sometime?
   
 8. Plan gentle troll for person who made first commit to your repo when you were just getting started. 
@@ -103,8 +104,6 @@ Objectives:
   * How to get started in open source
   * How and why of pointers
   
- 
- 
 16. Asked my wonderful artist-friend Andy M. to illistrate anything that needs illistrating when I start blogging.
  * She's happy to do so and requests that I tell her more about what I will blog about so she can start sketching.
  * I want to be sure she uses materials that will move her forward in her art-study since I'll be happy with whatever she does.
@@ -117,6 +116,10 @@ Objectives:
 19. Learned what a canary is. : thumbs up :
 
 20. Refactor triangle generator
+ * Maybe just rewrite the whole thing.  Here's what you hope to have it do:
+ * Maybe give it a form-like front page explaining purpose and a sketch of what they are seeing in the slowed down one.
+ * Ask user if they'd like to see construction of triangle or pyrimid at normal speed or a pyrimid at the slow speed.
+ * After showing the fast versions, ask again if they want to see the slow version.
 
 21. Project: Scaling for the sake of scaling
  * Notes: 
@@ -124,6 +127,13 @@ Objectives:
  * Can have a simple site that shows images using google API for like 1000 images with dominant color tagged.  Users (lots of them) can request a color.
  * If use existing scraper project, can time and use caching results.  Data.gov datasets the quickest dataset to interact with.
  * Advice: Make what people use the most fast.  Make the app itself very straightforward.  n+1 query helps you optimize.  Could scale someone else's code since you just care about scaling.  Remember to get baseline and speed it up.  Read articles to get terminology in your head.
+
+22. Apply to ADA
+
+23. Wrote re: fixing MITOC admin stuff
+
+24. Should also sign up MITOC as an org this week
+
 
  
  
