@@ -132,7 +132,13 @@ Objectives:
 
 23. Wrote re: fixing MITOC admin stuff
 
-24. Should also sign up MITOC as an org this week
+24. Should also sign up MITOC as an org this week [David did this]
+
+25. Learned about [meditation beads](https://en.wikipedia.org/wiki/Buddhist_prayer_beads) from Matthias
+
+26. Went to talk about moderating vulva project (see phone images for notes)
+
+27. 
 
 
  
