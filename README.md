@@ -8,7 +8,11 @@ Code and get organized/priorities.
 
 Objectives:
 1. Tell supportive folks about your Outreachy choices, ask how you might contact people and increase your chances in future rounds.
- * 
+ * Open Stack - giant project, ambitious long-term participants; if interested in OpenStack, check out [this course](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS152x+3T2016/info)
+ * EdX - hires (Boston) from it's open people a lot (NB)
+ * Debian - (CS)
+ * Zulip - 
+ * [Google doc of all notes on orgs/projects](https://docs.google.com/spreadsheets/d/1MRHQ04r7CPT4LAujFWHFcBHPt7G5wtnPivP0zueNb9U/edit#gid=0)
 
 2. Try cloned flask blog locally, modify as needed (or use to troubleshoot your own), and add to website.
 
@@ -120,6 +124,7 @@ Objectives:
  * Maybe give it a form-like front page explaining purpose and a sketch of what they are seeing in the slowed down one.
  * Ask user if they'd like to see construction of triangle or pyrimid at normal speed or a pyrimid at the slow speed.
  * After showing the fast versions, ask again if they want to see the slow version.
+ * Decided to refactor instead of rewriting the whole thing after talking to several folks.  They had some interesting 
 
 21. Project: Scaling for the sake of scaling
  * Notes: 
@@ -130,7 +135,7 @@ Objectives:
 
 22. Apply to ADA
 
-23. Wrote re: fixing MITOC admin stuff
+23. Wrote re: fixing MITOC admin stuff [Done]
 
 24. Should also sign up MITOC as an org this week [David did this]
 
@@ -138,7 +143,21 @@ Objectives:
 
 26. Went to talk about moderating vulva project (see phone images for notes)
 
-27. 
+27. Reviewed ohmyzsh features and suggested directory/organizational structure with Diego
+ * ohmyzsh [project](https://github.com/robbyrussell/oh-my-zsh) especially the [plugins](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins) are really worth looking at
+ * suggest only using plugins with docs so you know what you're getting
+ * themes are neat but mostly it's just art, look for functional things (like showing what branch you are on)
+ * I look forward to having a config file that I'm proud of :)
+ * D. says vim folks use ohmyzsh a lot because it means that the stuff they don't get by not using emacs can still hapen, just in their terminal 
+ * z has a really neat [fuzzy search tool](https://en.wikipedia.org/wiki/Approximate_string_matching) that means that you don't need to play the cd into your directory game that I always play
+ * suggest git, z, pep8, and a few other plugins. omg, this can control spotify from your terminal <3
+ * get comfortable using spotlight [crtl+space] to get used to z and give yourself another way to avoid your mouse
+ * how you plan your directory structure allows you to control how you allocate resources (sync each with best services for that thing (eg. pics with google, docs with dropbox, projects with github)) and keep yourself from getting distracted by looking for things or not remembering what projects you were working on
+ * suggests keeping projects that are completed in an arcived folder so you can more easily see the ones that are incomplete, renaming the folder projects instead of git because you really dont want all your projects on github do you - this is a way to change your outlook since you do projects to do projects and not for github, clean github periodically of all but the projects you are proudest of because people will only come and click on 2-3 projects so you want the chances to be high that they see something you want them to see
+ * suggested structure: documents (for mostly written things: mitoc notes, books, funny written things), media (pics (whatever kind or however I will use them (ie. silly pictures to cheer me up)), videos), projects (archived, maybe discarded, and a scratchpad folder where all the bonkers ideas get tried out) 
+ * noticed I end up with a lot of minimized windows because I minimize things so I can see my desktop, can instead [cmd+f3] for fast clearing or [cmd+f3+shift] for slow clearing and repeat or click on edge of window to get it back
+ 
+28. Apply to Code with Klossy
 
 
  
