@@ -17,13 +17,14 @@ Periodic notes about my progress.
  * Write DevBootcamp contact and tell her it will be a few weeks before you can get her the outline you were going to discuss.
  * Tim A re: contributing to Zulip / bummed can't make it early next week.
  * Me-like person D. met at Boston Python, now doing Outreachy.
- * Tell Yuval you won't be there Weds.
+ ~~* Tell Yuval you won't be there Weds.~~
  
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
  * Work with Sarah on Intro to Python 1-hr talk
  * If selected, Dec 9th devbootcamp talk (on Requests?)
  * Try to present one thing 2/mo at RC.
+ * Blog about offline news tools from your research.
  
 #### Projects and tutorials 
  * Observe how they are all tangled and try to see what skill-attempts connect to what and start completing things.
@@ -32,11 +33,11 @@ Periodic notes about my progress.
  * You want to make a customized holiday card, but are a little bummed because hosting on github will not let you have a database for it.  Maybe go ahead and just start with a static for loop of the thing and the HTML/CSS you need for the front end and you can decide if the db is what you want. Remember to not to combine a new language (JS) and a project with unfamiliar components, like you where about to do.
  
 #### Things that aren't actually about you
- * Getting folks with intermittent internet set up with a way to download articles to read later.
+ ~~* Getting folks with intermittent internet set up with a way to download articles to read later.~~
  * Maybe talk to the meetup girl whose code you were going to review and make suggestions for next steps and gently that she may want to distinguish between her work and tutorials when asking for feedback.
  * Review the rock game for the geology of it.
  * Find and send parents the info for calling their reps.
- * Make sure you can record and save 45mins of video on your phone for D's talk Monday.
+ ~~* Make sure you can record and save 45mins of video on your phone for D's talk Monday.~~ [Open Camera](http://opencamera.sourceforge.net/help.html) is a great (and open source!) app
  * Learn pricepoint for hiking shirts in the past and fine a good fabric/how to print.
  
 #### Stuff to make you better
