@@ -1,6 +1,33 @@
 # long_haul
 Periodic notes about my progress.
 
+## 11/19/2016
+### Big, Self-actualivation Goals
+ * Restart the whole acountablity thing by keeping track of your progress here. To improve the experience, just delete/modify each of the items in place. This is what version control is for.
+ * Try to be make sense of your list of projects that was itself becoming a distraction.
+
+### Concrete Goals
+ * Introduce yourself to: Pandas, (more with) Python debuggers, Ruby of Rails, Flask, Javascript, recursion, & the Requests library. Now sit back and just notice how many damned things you where trying to do at once. Time to trim the fat.
+
+### Concrete Tasks
+#### Contacting humans
+ * Write the MR folks re: (a) do they still want to work with you (you spoke right before the election) and (b) that you have their requested summary of experience ready to go and you feel pretty ok moving forward if they feel good about it.
+ * Write folks who supported you re: Outreachy and get yourself set up on their chats and start listening/developing relationships.
+ * Writing your GWC interviewer with a thank you and awkwardly acknowledge your mistakes.
+ * Write DevBootcamp contact and tell her it will be a few weeks before you can get her the outline you were going to discuss.
+ * Tim A re: contributing to Zulip / bummed can't make it early next week.
+ * Me-like person D. met at Boston Python, now doing Outreachy.
+#### Writing things to present
+ * Notes about women in tech for devbootcamp 
+ * Work with Sarah on Intro to Python 1-hr talk
+ * If selected, Dec 9th devbootcamp talk (on Requests?)
+ * Try to present one thing 2/mo at RC.
+#### Projects and tutorials 
+Observe how they are all tangled and try to see what skill-attempts connect to what and start completing things.
+ * For the moment, just make a static blog.  You really want a blog and the Flask/Diego fight is grinding you so just make it and then make the thing you really want later.
+ * The recursive thing you wrote and played with the debugger in Python so you could debug your slowed-down version of the Sierpinski trianges. Maybe review the debugger and then take a stab at getting it to work.  You also want to give users a few more opitions and give it a front end (maybe ask Diego or Khalid about this).
+ * You want to make a customized holiday card, but are a little bummed because hosting on github will 
+
 ## 10/12/2016
 ### Goals
 Overall: 
