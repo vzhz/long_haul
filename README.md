@@ -17,16 +17,35 @@ Periodic notes about my progress.
  * Write DevBootcamp contact and tell her it will be a few weeks before you can get her the outline you were going to discuss.
  * Tim A re: contributing to Zulip / bummed can't make it early next week.
  * Me-like person D. met at Boston Python, now doing Outreachy.
+ * Tell Yuval you won't be there Weds.
+ 
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
  * Work with Sarah on Intro to Python 1-hr talk
  * If selected, Dec 9th devbootcamp talk (on Requests?)
  * Try to present one thing 2/mo at RC.
+ 
 #### Projects and tutorials 
-Observe how they are all tangled and try to see what skill-attempts connect to what and start completing things.
+ * Observe how they are all tangled and try to see what skill-attempts connect to what and start completing things.
  * For the moment, just make a static blog.  You really want a blog and the Flask/Diego fight is grinding you so just make it and then make the thing you really want later.
  * The recursive thing you wrote and played with the debugger in Python so you could debug your slowed-down version of the Sierpinski trianges. Maybe review the debugger and then take a stab at getting it to work.  You also want to give users a few more opitions and give it a front end (maybe ask Diego or Khalid about this).
- * You want to make a customized holiday card, but are a little bummed because hosting on github will 
+ * You want to make a customized holiday card, but are a little bummed because hosting on github will not let you have a database for it.  Maybe go ahead and just start with a static for loop of the thing and the HTML/CSS you need for the front end and you can decide if the db is what you want. Remember to not to combine a new language (JS) and a project with unfamiliar components, like you where about to do.
+ 
+#### Things that aren't actually about you
+ * Getting folks with intermittent internet set up with a way to download articles to read later.
+ * Maybe talk to the meetup girl whose code you were going to review and make suggestions for next steps and gently that she may want to distinguish between her work and tutorials when asking for feedback.
+ * Review the rock game for the geology of it.
+ * Find and send parents the info for calling their reps.
+ * Make sure you can record and save 45mins of video on your phone for D's talk Monday.
+ * Learn pricepoint for hiking shirts in the past and fine a good fabric/how to print.
+ 
+#### Stuff to make you better
+ * Read The Will to Change
+ * Read Strangers in their own Land
+ * Watch [this video about scaling yourself that Diego recommended](https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en#t-529593) and [this other talk](https://www.youtube.com/watch?v=FS1mnISoG7U)
+ * Read the public speaking book
+ * Watch Real Boys Don't Cry. Cry.
+
 
 ## 10/12/2016
 ### Goals
