@@ -13,11 +13,12 @@ Periodic notes about my progress.
 #### Contacting humans
  * Write the MR folks re: (a) do they still want to work with you (you spoke right before the election) and (b) that you have their requested summary of experience ready to go and you feel pretty ok moving forward if they feel good about it.
  * Write folks who supported you re: Outreachy and get yourself set up on their chats and start listening/developing relationships.
- * Writing your GWC interviewer with a thank you and awkwardly acknowledge your mistakes.
+ * ~~Writing your GWC interviewer with a thank you and awkwardly acknowledge your mistakes.~~
  * Write DevBootcamp contact and tell her it will be a few weeks before you can get her the outline you were going to discuss.
  * Tim A re: contributing to Zulip / bummed can't make it early next week.
  * Me-like person D. met at Boston Python, now doing Outreachy.
- ~~* Tell Yuval you won't be there Weds.~~
+ * ~~Tell Yuval you won't be there Weds.~~
+ * ~~Write GWC folks about follow up interview~~
  
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
@@ -31,18 +32,19 @@ Periodic notes about my progress.
  * For the moment, just make a static blog.  You really want a blog and the Flask/Diego fight is grinding you so just make it and then make the thing you really want later.
  * The recursive thing you wrote and played with the debugger in Python so you could debug your slowed-down version of the Sierpinski trianges. Maybe review the debugger and then take a stab at getting it to work.  You also want to give users a few more opitions and give it a front end (maybe ask Diego or Khalid about this).
  * You want to make a customized holiday card, but are a little bummed because hosting on github will not let you have a database for it.  Maybe go ahead and just start with a static for loop of the thing and the HTML/CSS you need for the front end and you can decide if the db is what you want. Remember to not to combine a new language (JS) and a project with unfamiliar components, like you where about to do.
+ * Hackerrank challenge for K's company.
  
 #### Things that aren't actually about you
- ~~* Getting folks with intermittent internet set up with a way to download articles to read later.~~
- * Maybe talk to the meetup girl whose code you were going to review and make suggestions for next steps and gently that she may want to distinguish between her work and tutorials when asking for feedback.
+ * ~~Getting folks with intermittent internet set up with a way to download articles to read later.~~
+ * ~~Maybe talk to the meetup girl whose code you were going to review and make suggestions for next steps and gently that she may want to distinguish between her work and tutorials when asking for feedback.~~
  * Review the rock game for the geology of it.
- * Find and send parents the info for calling their reps.
- ~~* Make sure you can record and save 45mins of video on your phone for D's talk Monday.~~ [Open Camera](http://opencamera.sourceforge.net/help.html) is a great (and open source!) app
- * Learn pricepoint for hiking shirts in the past and fine a good fabric/how to print.
+ * ~~Find and send parents [the info for calling their reps.](https://docs.google.com/spreadsheets/d/174f0WBSVNSdcQ5_S6rWPGB3pNCsruyyM_ZRQ6QUhGmo/htmlview?sle=true#gid=114941615)~~
+ * ~~Make sure you can record and save 45mins of video on your phone for D's talk Monday.~~ ~~[Open Camera](http://opencamera.sourceforge.net/help.html) is a great (and open source!) app.  Also used [this web app](https://www.digitalrebellion.com/webapps/videocalc?format=dv_ntsc_f&frame_rate=f23.98&length=1&length_type=hours) to calcuation how many GBs would be needed at what res. etc.~~
+ * Learn pricepoint for hiking shirts in the past and fine a good fabric/how to print. Asked how many sold last year. Next: Contact [Hemlock Ink](http://www.hemlockink.com/digital-printing/) and ask them what shirt material options are and Alex G (who just ordered for SoR) to see what his experience was and if he got a deal.
  
 #### Stuff to make you better
  * Read The Will to Change
- * Read Strangers in their own Land
+ * Read Strangers in their own Land [Ordered]
  * Watch [this video about scaling yourself that Diego recommended](https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en#t-529593) and [this other talk](https://www.youtube.com/watch?v=FS1mnISoG7U)
  * Read the public speaking book
  * Watch Real Boys Don't Cry. Cry.
