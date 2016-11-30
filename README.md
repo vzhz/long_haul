@@ -23,9 +23,10 @@ Periodic notes about my progress.
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
  * Work with Sarah on Intro to Python 1-hr talk
- * If selected, Dec 9th devbootcamp talk (on Requests?)
+ * Dec 9th devbootcamp talk (on "lessons from code review")
  * Try to present one thing 2/mo at RC.
  * Blog about offline news tools from your research.
+ * ~~Blog about your awesome charging cord mod~~
  
 #### Projects and tutorials 
  * Observe how they are all tangled and try to see what skill-attempts connect to what and start completing things.
@@ -33,6 +34,8 @@ Periodic notes about my progress.
  * The recursive thing you wrote and played with the debugger in Python so you could debug your slowed-down version of the Sierpinski trianges. Maybe review the debugger and then take a stab at getting it to work.  You also want to give users a few more opitions and give it a front end (maybe ask Diego or Khalid about this).
  * You want to make a customized holiday card, but are a little bummed because hosting on github will not let you have a database for it.  Maybe go ahead and just start with a static for loop of the thing and the HTML/CSS you need for the front end and you can decide if the db is what you want. Remember to not to combine a new language (JS) and a project with unfamiliar components, like you where about to do.
  * Hackerrank challenge for K's company.
+ * Set up RSS feed so you can join RC's [Blaggregator](https://blaggregator.recurse.com/add_blog/)
+ * Set up [Google Analytics](https://www.google.com/analytics/#?modal_active=none) on your blog once your internet is behaving and you can actually get to the site
  
 #### Things that aren't actually about you
  * ~~Getting folks with intermittent internet set up with a way to download articles to read later.~~
@@ -41,11 +44,13 @@ Periodic notes about my progress.
  * ~~Find and send parents [the info for calling their reps.](https://docs.google.com/spreadsheets/d/174f0WBSVNSdcQ5_S6rWPGB3pNCsruyyM_ZRQ6QUhGmo/htmlview?sle=true#gid=114941615)~~
  * ~~Make sure you can record and save 45mins of video on your phone for D's talk Monday.~~ ~~[Open Camera](http://opencamera.sourceforge.net/help.html) is a great (and open source!) app.  Also used [this web app](https://www.digitalrebellion.com/webapps/videocalc?format=dv_ntsc_f&frame_rate=f23.98&length=1&length_type=hours) to calcuation how many GBs would be needed at what res. etc.~~
  * Learn pricepoint for hiking shirts in the past and fine a good fabric/how to print. Asked how many sold last year. Next: Contact [Hemlock Ink](http://www.hemlockink.com/digital-printing/) and ask them what shirt material options are and Alex G (who just ordered for SoR) to see what his experience was and if he got a deal.
+ * ~~Correct grammar in Daisy's research applications.~~
  
 #### Stuff to make you better
  * Read The Will to Change
  * Read Strangers in their own Land [Ordered]
  * Watch [this video about scaling yourself that Diego recommended](https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en#t-529593) and [this other talk](https://www.youtube.com/watch?v=FS1mnISoG7U)
+ * Watch [the talk](https://www.youtube.com/watch?v=wewAC5X_CZ8) Deborah suggested
  * Read the public speaking book
  * Watch Real Boys Don't Cry. Cry.
 
