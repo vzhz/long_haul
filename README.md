@@ -19,6 +19,7 @@ Periodic notes about my progress.
  * Me-like person D. met at Boston Python, now doing Outreachy.
  * ~~Tell Yuval you won't be there Weds.~~
  * ~~Write GWC folks about follow up interview~~
+ * ~~Apply to [TutorNow](http://prepnow.com/about/tutor-application.php) and list Amanda as your referer~~[screenshot of app and .tex/pdf of resume can be found in [submitted jobs folder]()]
  
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
@@ -36,6 +37,7 @@ Periodic notes about my progress.
  * Hackerrank challenge for K's company.
  * Set up RSS feed so you can join RC's [Blaggregator](https://blaggregator.recurse.com/add_blog/)
  * Set up [Google Analytics](https://www.google.com/analytics/#?modal_active=none) on your blog once your internet is behaving and you can actually get to the site
+ * Set up RC Scout (ask John W if you have trouble)
  
 #### Things that aren't actually about you
  * ~~Getting folks with intermittent internet set up with a way to download articles to read later.~~
