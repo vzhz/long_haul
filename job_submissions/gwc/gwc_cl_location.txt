@@ -1,0 +1,5 @@
+can be found in your google docs.
+.tex file lost in a horrible rm git accident. rip.
+.pdf of current state of revisions (no formatting) is also stored in this directory.
+
+https://docs.google.com/document/d/16ynfvsJcJ9U3kVw13eTssRnoBE0cHYM_W8M0JhIpmY0/edit
