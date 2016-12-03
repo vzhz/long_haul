@@ -20,6 +20,12 @@ Periodic notes about my progress.
  * ~~Tell Yuval you won't be there Weds.~~
  * ~~Write GWC folks about follow up interview~~
  * ~~Apply to [TutorNow](http://prepnow.com/about/tutor-application.php) and list Amanda as your referer~~[screenshot of app and .tex/pdf of resume can be found in [submitted jobs folder]()]
+ * Apply to [Helen Fellowship, American Museum of Natural History for Women in Tech & Science](amnh.org/helen), see email for more details and contact person.
+ * Apply to PyCon FinAid [Googledoc of form here, make your own copy](https://docs.google.com/document/d/15696r0dOYKilig6NSXNZ5hUA3uURe9hf5qO0eg1U5nM/edit?ts=5839e5a4)
+ * Apply to PyCon planning committee
+ * Apply to DjangoCon FinAid and look for vollenteer ops once information comes out
+ * Get Soylent people to get you your refund.
+ * 
  
 #### Writing things to present
  * Notes about women in tech for devbootcamp 
@@ -38,6 +44,7 @@ Periodic notes about my progress.
  * Set up RSS feed so you can join RC's [Blaggregator](https://blaggregator.recurse.com/add_blog/)
  * Set up [Google Analytics](https://www.google.com/analytics/#?modal_active=none) on your blog once your internet is behaving and you can actually get to the site
  * Set up RC Scout (ask John W if you have trouble)
+ * Practice interview concepts with [this hiring guide](https://www.toptal.com/python#hiring-guide) and review your observations with Edward.
  
 #### Things that aren't actually about you
  * ~~Getting folks with intermittent internet set up with a way to download articles to read later.~~
