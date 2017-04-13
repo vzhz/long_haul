@@ -1,0 +1,42 @@
+AJ's FOSS 
+Picking project
+pick something you use
+annoying that library doesn't do X
+some projects aren't friendly to beginners
+OpenHatch's project finder
+@yourfirstPR
+Good Issues
+first, search for duplicates
+GH only shows open issues, also search closed issue (maintainer might have rejected the suggestion), use multiple keywords
+Look for mailing list/archives - usually in readme 
+Don't just say "I also want this!" that's extra noise
+Subscribe to the issue or give a GH "reaction"
+Be precise: your OS, logs from program, steps ("went to menu, clicked find"), what you expected and what happened
+description of feature and what problem it is intended to solve
+Shared history of a project
+by "mailing list", he means mail that facilitates group discussion
+sometimes ask to rewrite commit messages to follow convention so historical information is helpful
+follow 7 rules of great commit message: basically, explain why you did it in your commit message, your diff will tell you what you did
+A commit is a contribution too!
+Find issue
+All openhatch and yourfirstPR will have labels that alert you an issue is first-timer friendly
+Doesn't have to be code: Documentation is important too! 
+People know that getting used to the process of environment etc.
+Claim an issue so other people don't take it
+Prepare
+Do the fork-clone dance
+Will be in contributing.md or maybe in the readme
+Fix the bug
+Changes on seperate branch so you don't combine your changes
+Get help
+Some projects use Slack or there's also IRC (connect to network (freenode is popular, use web, don't auth to services) and then channels)
+many people leave their clients open and review in many hours so don't "hey can I ask a question?" and don't be insecure when it takes a while for people to get back to you
+PR when you are done with change, asking to merge in
+Work in progress PR is for when you are stuck on something to ask for feedback
+Great way to get feedback, anyone can comment on particular lines on pull requests 
+Feedback
+Status check (how much coverage by test suite that tests as if it was used under different configurations, click details to see what is failing) feedback or from the maintainer
+When tests fail, fix failures locally and make commit on your "fix bug" branch
+Say "work in progress" in subject line, not commit because that status will change and the commit will aways be there
+Some projects mark "good 2nd PR bugs" but not many
+Send PR
