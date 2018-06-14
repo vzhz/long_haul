@@ -1,6 +1,28 @@
-# long_haul
+# the long haul
 Periodic notes about my progress.
 
+### Commitment
+I recently heard someone say "you improve what you focus on, and you focus on what you can measure" and I decided it was time to start a running list of what I was working on. I made a similiar effort in 2016, and those notes are at the bottom of this document and [here]().
+
+To support yourself in doing this, you've come up with a list of "meta-goals" that you want to put in places as supports for yourself.
+
+## Meta-goals
+Ways to support yourself as you work.
+- [x] Commit to programming daily
+- [ ] Explore ways to document and evaluate your progress
+- [ ] Identify ways to jump-start when you fall off the wagon
+- [ ] Find ways to share what you're learning, gather up moral support
+- [ ] Keep a list of accomplishments, including when you reach out for help effectively, etc.
+
+## Goals
+Make an entry for each of these that you complete. These are the meat and potatoes that will help make you an self-actualized programmer.
+- [ ] Complete Udacity's 
+
+
+
+
+
+# 2016 logs
 ## 11/19/2016
 ### Big, Self-actualivation Goals
  * Restart the whole acountablity thing by keeping track of your progress here. To improve the experience, just delete/modify each of the items in place. This is what version control is for.
