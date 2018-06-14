@@ -46,6 +46,22 @@ Periodic notes about my progress.
  * Set up RC Scout (ask John W if you have trouble)
  * Practice interview concepts with [this hiring guide](https://www.toptal.com/python#hiring-guide) and review your observations with Edward.
  
+ Rebuilding rails : I was doing this with a (more experienced) friend.  My goal was to learn about a framework by learning about it's parts by building a "toy" version of it.  This is motivated by my frustrations with Django.  My thinking was that learning about one could teach me about the other, in the same was knowing any language well helps you with others.
+This is currently at a dead standstill.  My friend and I had an disagreement unrelated to programming and we're in "let's take some space" period.  I'm really hesitant to return to this project because I'm concerned I'll just end up in a dependency web without someone else there.
+
+Holiday card : I got myself really caught up in if I should use JS etc and I haven't returned to it.  I think the thing to do is write it as if it's a terminal things in Python, since I can do that, and then figure out the front-end dance.
+
+Playing with JS with "Ugh, Code" : It's a pretty hilarious book that has you build a weather app. I haven't any trouble with it yet. I don't have any compelling reason to learn JS right now, but Diego suggested the book and I it does seem to be a really desirable skill, especially if I do web stuff initially. I am somewhat more motivated to do this because I know Diego will talk to me about anything I do with it.
+
+Exploring Pandas with Julia Evan's cookbook : There was no reason to stop, I just got distracted. I just want to get more comfortable with Pandas, because data.
+
+Chat client with ballingt's tutorial : I wanted to make a chat client with Python. I went to a workshop but it was almost to packed to type and I got behind very fast, so I wanted to go back to it.
+
+Python debugger -> Triangle drawing script : I want to fix the "slowed-down" version of my script, but it's not working (and I'm not sure when it last was and past, less-organized me wrote it).  So I should probably play more with the debugger and attempt to figure out why my mess isn't working. But really the real point should be getting confident with debugger tools.
+
+Webpage : I've been playing with my webpage quite a bit, and that it's been reasonably positive, although I don't know how long-term goal focused that is.  I'm going to work out some CSS problems with a friend on Friday and then I'll be happy to show off.  I recently broke a few things.
+
+ 
 #### Things that aren't actually about you
  * ~~Getting folks with intermittent internet set up with a way to download articles to read later.~~
  * ~~Maybe talk to the meetup girl whose code you were going to review and make suggestions for next steps and gently that she may want to distinguish between her work and tutorials when asking for feedback.~~
