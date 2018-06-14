@@ -18,7 +18,22 @@ Ways to support yourself as you work.
 Make an entry for each of these that you complete. These are the meat and potatoes that will help make you an self-actualized programmer.
 - [ ] Complete Udacity's 
 
+## Supports that you have
+A reminder for the times I need a little help remembering.
 
+
+## Logs
+<!--
+Template:
+### Date - Day
+**Project:** [Today's goals]
+**Progress:** [What you did]
+**Thoughts:** [What you learned]
+**Self-Support:** [What you did to care for your working self, including self-care stuff]
+**Link to Work:** [Commits count too]
+**Length of Work:** [How good were you at working?]
+**Gratitude:** [How did you feel? What helped you?]
+--->
 
 
 
