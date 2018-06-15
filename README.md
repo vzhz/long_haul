@@ -20,7 +20,11 @@ Make an entry for each of these that you complete. These are the meat and potato
 
 ## Supports that you have
 A reminder for the times I need a little help remembering.
-
+- Your [check-in form](https://docs.google.com/forms/d/e/1FAIpQLScujDrp6O61zeVDuEC50-3QUmoBXoHv0K1RUx9hvnLwqJHPbA/viewform)
+- This record :)
+- Your [assignment list](https://docs.google.com/spreadsheets/d/1yCS4EgeFGCmW5itGtemlCE8Ng1t7s2c0BC-jrUFWF_8/edit#gid=891834841)
+- Your pals have been supportive when you ask specific questions
+- When you find questions of the "how do *you* do this?" type, twitter can be really helpful
 
 ## Logs
 <!--
@@ -35,7 +39,14 @@ Template:
 **Gratitude:** [How did you feel? What helped you?]
 --->
 
-
+### June 14, 2018 - Thursday
+**Project:** Consider what will help you, get phone working, quizzes for "starting small"
+**Progress:** [What you did]
+**Thoughts:** So far it's been more of a "doing day" than a learning one, 
+**Self-Support:** I made myself a good dinner
+**Link to Work:** [Commits count too]
+**Length of Work:** [How good were you at working?]
+**Gratitude:** [How did you feel? What helped you?]
 
 # 2016 logs
 ## 11/19/2016
